@@ -1,0 +1,11 @@
+tensorflow>=2.7.0
+IPython>= 7.29.0
+pycairo
+pyyaml
+h5py
+keras-tuner
+matplotlib
+pandas
+scipy
+sklearn
+scikit-learn
